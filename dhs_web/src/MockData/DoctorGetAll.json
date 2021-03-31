@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "firstName": "Mayur",
+        "lastName": "Sonawane",
+        "emailId": "mayur@gmail.com",
+        "speciality": "cardio",
+        "qualification": "mbbs",
+        "password": null,
+        "hospital": {
+            "id": 7,
+            "hospitalName": "kart",
+            "emailId": "vabhav@gmail.com",
+            "hospitalContactNo": "4577875654",
+            "hospitaladdress": "karnatak"
+        },
+        "active": true
+    },
+    {
+        "id": 2,
+        "firstName": "Aditya",
+        "lastName": "Jadhav",
+        "emailId": "kartik@gmail.com",
+        "speciality": "cardio",
+        "qualification": "mbbs",
+        "password": null,
+        "hospital": {
+            "id": 7,
+            "hospitalName": "kart",
+            "emailId": "vabhav@gmail.com",
+            "hospitalContactNo": "4577875654",
+            "hospitaladdress": "karnatak"
+        },
+        "active": true
+    },
+    {
+        "id": 3,
+        "firstName": "kartik",
+        "lastName": "mahurkar",
+        "emailId": "kartik@gmail.com",
+        "speciality": "cardio",
+        "qualification": "mbbs",
+        "password": null,
+        "hospital": {
+            "id": 7,
+            "hospitalName": "kart",
+            "emailId": "vabhav@gmail.com",
+            "hospitalContactNo": "4577875654",
+            "hospitaladdress": "karnatak"
+        },
+        "active": true
+    }
+]

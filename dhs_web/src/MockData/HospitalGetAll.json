@@ -1,0 +1,30 @@
+[
+    {
+        "id": 7,
+        "hospitalName": "Appolo",
+        "emailId": "vabhav@gmail.com",
+        "hospitalContactNo": "4577875654",
+        "hospitaladdress": "karnatak"
+    },
+    {
+        "id": 3,
+        "hospitalName": "Aditya Birla Hospital",
+        "emailId": "kartik@gmail.com",
+        "hospitalContactNo": "7773987872",
+        "hospitaladdress": "sdfsdf"
+    },
+    {
+        "id": 4,
+        "hospitalName": "Sai Hospital",
+        "emailId": "kartik@gmail.com",
+        "hospitalContactNo": "7773987872",
+        "hospitaladdress": "sdfsdf"
+    },
+    {
+        "id": 5,
+        "hospitalName": "The Eye Clinic",
+        "emailId": "kartik@gmail.com",
+        "hospitalContactNo": "7773987872",
+        "hospitaladdress": "sdfsdf"
+    }
+]
