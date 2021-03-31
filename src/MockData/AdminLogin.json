@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "firstName": "KARTIK",
+    "lastName": "Mahurkar",
+    "contactNo": null,
+    "bloodGroup": "AB",
+    "addharNo": "1234567812345678",
+    "emailId": "kartik@gmail.com",
+    "address": "Shivaji nagar",
+    "password": "kartik",
+    "healthCondition": []
+}

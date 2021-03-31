@@ -1,0 +1,14 @@
+[
+    {
+        "name": "DRAFT"
+    },
+    {
+        "name": "CONFIREMED"
+    },
+    {
+        "name": "NOT_AVAILABLE"
+    },
+    {
+        "name": "COMPLETED"
+    }
+]
